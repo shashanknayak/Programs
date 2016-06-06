@@ -19,6 +19,7 @@ using namespace std;
 
 int main()
 {
+    Poker_Doug_main();
     return 0;
 }
 
